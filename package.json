@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/joseym/pdfjs-bower.git"
+    "url": "git://github.com/ernestguevara/pdfjs-bower.git"
   },
   "keywords": [
     "pdf"
@@ -16,7 +16,7 @@
   "author": "Josey Morton",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/joseym/pdfjs-bower/issues"
+    "url": "https://github.com/ernestguevara/pdfjs-bower/issues"
   },
   "dependencies": {
     "grunt": "~0.4.5",

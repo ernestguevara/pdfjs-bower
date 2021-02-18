@@ -1,6 +1,6 @@
 {
   "name": "pdfjs-bower",
-  "version": "1.0.233",
+  "version": "1.10.100",
   "homepage": "https://github.com/joseym/pdfjs-bower",
   "authors": [
     "Josey Morton <me@joseymorton.com>"
@@ -16,13 +16,11 @@
   ],
   "license": "BSD-2-Clause",
    "main": [
-    "./dist/compatibility.js",
     "./dist/pdf.js"
   ],
   "ignore": [
     "**/.*",
     "pdfjs",
-    "Gruntfile.js",
     "node_modules",
     "bower_components",
     "test",
